@@ -13,7 +13,7 @@ locale.setlocale(locale.LC_ALL, 'pt_BR.UTF-8')
 
 
 api = CoinGeckoAPI(url_base='https://api.coingecko.com/api/v3')
-bot = TelegramBot(token='5556006513:AAHs4luSN3tIuhWD0jiCsaWzsmOONOQuB24', chat_id=1100925310)
+bot = TelegramBot(token='', chat_id=)
 
 while True:
 
